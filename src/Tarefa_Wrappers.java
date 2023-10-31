@@ -10,11 +10,10 @@ public class Tarefa_Wrappers {
         int nota1=10;
         System.out.println(nota1);
 
-        long nota2=nota1;
+        Integer nota2=nota1;
         System.out.println(nota2);
 
-        short nota3=(short)nota1;
-        System.out.println(nota2);
+        
 
 
     }
